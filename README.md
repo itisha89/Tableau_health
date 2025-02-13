@@ -72,7 +72,10 @@ There is little to no correlation between BMI and diabetes for the countries hav
 For the countries sharing the similar obesity rates as that of the UK, the obesity rates have gone beyond the average values but the diabetes rates have always been below the average values.
 
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
 
+---
 
 
 
